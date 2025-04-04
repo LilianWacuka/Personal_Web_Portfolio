@@ -52,7 +52,7 @@ To work with this project, you may need to install:
 ## Deployment
 - I have deployed the code using vercel as I find it more easier to work with.
 ## Credits
-Created by **Lilian Nguru**, a passionate web developer and a graphic designer.
+Created by **Lilian Nguru**, a passionate web developer, web desinger and a graphic designer.
 
 ## Contact
 - **GitHub**: [LilianWacuka](https://github.com/LilianWacuka)
